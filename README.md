@@ -1,5 +1,5 @@
 # Welcome to E-cart! ✨
-E-cart, is an online platform to order products online. The user can pay through PayPal or credit-debit card methods.  
+E-cart, is an online platform to order products online. The user can pay through PayPal Debit/Credit card or Net Banking methods.  
 <h2>Features and Functionalities 😃</h2>
 <p><strong>User features</strong></p>
 <ul>
